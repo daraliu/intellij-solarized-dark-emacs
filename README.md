@@ -1,0 +1,1 @@
+# intellij-solarized-dark-emacs
