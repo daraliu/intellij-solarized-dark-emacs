@@ -9,8 +9,15 @@ Colors tuned for _Scala_, _Java_, _Python_ to match the Emacs theme, see screens
 - Go to **File** -> **Import Settings**
 - Select path to _IntellijSolarizedDarkEmacsColors.jar_ file and click **OK**.
 
-![Screenshot](https://github.com/daraliu/intellij-solarized-dark-emacs/raw/master/solarized-dark-spacemacs-vs-idea-scala.png)
+### Screenshots
 
-![Screenshot](https://github.com/daraliu/intellij-solarized-dark-emacs/raw/master/solarized-dark-spacemacs-vs-idea-java.png)
+Side by side comparison with Spacemacs Solarized Dark colorscheme.
 
-![Screenshot](https://github.com/daraliu/intellij-solarized-dark-emacs/raw/master/solarized-dark-spacemacs-vs-idea-python-3.png)
+#### Scala
+![Screenshot-Scala](https://github.com/daraliu/intellij-solarized-dark-emacs/raw/master/solarized-dark-spacemacs-vs-idea-scala.png)
+
+#### Java
+![Screenshot-Java](https://github.com/daraliu/intellij-solarized-dark-emacs/raw/master/solarized-dark-spacemacs-vs-idea-java.png)
+
+#### Python
+![Screenshot-Python](https://github.com/daraliu/intellij-solarized-dark-emacs/raw/master/solarized-dark-spacemacs-vs-idea-python-3.png)
